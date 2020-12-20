@@ -57,4 +57,5 @@ public class TestSuite implements Test {
     }
 }
 ```
-## UML图见同级目录文件composite.PNG
+## UML图
+![UML](composite.png)
