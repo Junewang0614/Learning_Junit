@@ -63,7 +63,7 @@
 
 ### 建造者模式
 
-* ![](images/builder.png)
+* ![](images\builder.png)
 
 其中RunnerBuilder是**抽象建造者类**，除了AllDefaultPossibilitiesBuilder类以外，其他的都是**具体构造者**，通过Builder返回相应的Runner运行器。Runner则是product类，产品类。指挥类就是**Computer**类
 
