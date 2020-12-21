@@ -44,4 +44,4 @@ public class JUnit4Builder extends RunnerBuilder {
     }
 }
 ```
-![1](https://imgchr.com/i/rdX8JI)
+![1](https://s3.ax1x.com/2020/12/21/rdX8JI.png)
