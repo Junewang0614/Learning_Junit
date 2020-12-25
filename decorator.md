@@ -158,7 +158,7 @@ public class ExpectException extends Statement {
 
 ## UML图
 
-![pic](decorator.PNG)
+![pic](decorator.png)
 
 ## 应用装饰器模式的原因
 
