@@ -106,7 +106,7 @@ public abstract class ParentRunner<T> extends Runner implements Filterable,
 
 ## UML图
 
-![图片](composite2.PNG)
+![图片](composite2.png)
 
 ## 应用组合模式的原因
 
